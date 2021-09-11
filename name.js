@@ -16,3 +16,6 @@ let val1 = getValue();
 let val2 = getValue();
 let message = `${val1} + ${val2} = ${val1+val2}`;
 alert(message);
+
+let val3 = getValue();
+alert("your input: "+ val3);
