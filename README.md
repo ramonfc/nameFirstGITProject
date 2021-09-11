@@ -1,3 +1,7 @@
 # nameFirstGITProject
+
 proving instructions for class project
-* master --> main
+
+- master --> main
+
+Javier was here
