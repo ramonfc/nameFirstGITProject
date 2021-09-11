@@ -6,3 +6,4 @@ proving instructions for class project
 
 Javier was here
 Miguel too
+Wilson Fino too
