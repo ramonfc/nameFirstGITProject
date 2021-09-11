@@ -1,15 +1,33 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="keywords" content="adding two numbers, prompting, alert">
-        <meta name="description" content="ask two numbers via prompt and returns the sum in an alert">
-        <title>Sum</title>
-        <script src="name.js"></script>
-    </head>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="adding two numbers, prompting, alert">
+    <meta name="description" content="ask two numbers via prompt and returns the sum in an alert">
+    <title>Sum</title>
+    <script src="name.js"></script>
+</head>
 
-    <body>
-        
-    </body>
+<body>
+
+    <div id="form">
+        <form action="">
+            <h2>Sums first number and second number</h2>
+            <p>                
+                <label for="">First number <span>*</span></label>
+                <input id="n1" type="text" required>
+            </p>
+            <p>
+                <label for="">Second number <span>*</span></label>
+                <input id="n2" type="text" required>
+            </p>
+            <button id="calc" type="button" onclick="calcSum()">SUM</button>
+        </form>
+
+        <p id="res"></p>
+
+    </div>
+    
+</body>
 </html>
