@@ -19,3 +19,7 @@ alert(message);
 
 let val3 = getValue();
 alert("your input: "+ val3);
+
+
+let val5 = "Wilson Fino";
+alert(val5);
