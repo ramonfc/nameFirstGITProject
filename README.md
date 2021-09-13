@@ -6,4 +6,8 @@ proving instructions for class project
 
 Javier was here
 Miguel too
+<<<<<<< HEAD
 Wilson Fino too
+=======
+Jhon too
+>>>>>>> dev
